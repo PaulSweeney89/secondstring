@@ -1,5 +1,5 @@
 # Input string 
-# Print string in reverse order with every 2nd character omitted.
+# Print string with every second character in reverse order
 
 str = input("Enter String: ")
 
