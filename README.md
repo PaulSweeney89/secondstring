@@ -7,7 +7,8 @@
 Program Overview:
 - Program prompts user to input a string
 - Program uses slice notation to output every second character in reverse order.
-- Slice notation str\[start:end:step] --> \[::-2] --> using negative 2 for 'step' & leaving 'start'
+- Slice notation str\['start':'end':'step'] 
+- \[::-2] using negative 2 for 'step' & leaving 'start'
 & 'end' blank will count backwards from the end untill the beginning of the inputted string in increments of 2
 
 Reference:
